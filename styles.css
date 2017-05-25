@@ -1,3 +1,7 @@
-.header#new {
+.header {
   font-style: italic;
+}
+.para {
+  font-style: oblique;
+  color: orange;
 }
